@@ -1,0 +1,26 @@
+{
+  "name": "project-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "jest"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sae772/ci-cd-project-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sae772/ci-cd-project-1/issues"
+  },
+  "homepage": "https://github.com/sae772/ci-cd-project-1#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}
