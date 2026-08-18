@@ -1,4 +1,4 @@
-const js = require("@eslint/js");
+﻿const js = require("@eslint/js");
 
 module.exports = [
     {
@@ -7,6 +7,8 @@ module.exports = [
             globals: {
                 require: "readonly",
                 module: "readonly",
+                __dirname: "readonly",
+                console: "readonly",
                 test: "readonly",
                 expect: "readonly"
             }
